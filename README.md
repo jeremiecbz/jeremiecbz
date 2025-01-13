@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Geraimy
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning
 - 😄 Pronouns: normal
 - ⚡ Fun fact: not obese
 
