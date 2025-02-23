@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Geraimy
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning
-- 😄 Pronouns: normal
+- 😄 Pronouns: normal but soon F-22/F-35
 - ⚡ Fun fact: not obese
 
 <!---
